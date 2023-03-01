@@ -1,0 +1,193 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.list li{
+    list-style: none;
+    display: inline;
+    justify-content: space-between;
+    padding: 20px;
+}
+.start{
+    float: right;
+}
+.stmt{
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+}
+.par{
+    float: left;
+    width: 15%;
+    padding-left: 150px;
+
+}
+button{
+    background-color: black;
+    color:white;
+}
+.first{
+    float: right;
+    width: 70%;
+    
+}
+#sofa{
+    width: 650px;
+    margin-right: 150px;
+    
+}
+.second{
+    float: left;
+    width: 15%;
+    padding-left: 100px;
+    height: 300px;
+}
+#sit{
+    width: 250px;
+    height: 300px;
+    
+}
+.third{
+    float: right;
+    height: 200px; 
+}
+#arm{
+    width: 150px;
+    height: 70px;
+    padding-left:230px;
+}
+.fourth{
+float: right;
+ height:200px ;
+}
+#arm2{
+    width:170px;
+    height:70px;
+    padding-left:700px;
+    padding-bottom: 200px;
+}
+.hi{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    justify-content: space-around; 
+    display: flex;
+    
+}
+.one{
+    text-align: center;
+    border: solid;
+    background-color: gray;
+
+}
+.two{
+    border: solid;
+text-align: center;
+margin-left: 40px;
+background-color: gray;
+
+}
+.three{
+    border: solid;
+    text-align: center;
+    margin-left: 40px;
+    background-color: gray;
+
+}
+.design{
+
+}
+#p1{
+    width: 650px;
+    margin-left: 450px;
+
+}
+#p2{
+    width: 500px;
+    margin-left:450px;
+    margin-top: -900px;
+    padding-left: 230px;
+    padding-top: -400px;
+
+}
+#p3{
+    width: 300px;
+    margin-left: 450px;
+    margin-top: -900px;
+    padding-left: 400px;
+
+}
+.int{
+    font-size: 40px;
+    text-align: center;
+}
+.style{
+    display: flex;
+}
+#chair1{
+    width: 20%;
+    height: 10%;
+    margin-left: 20%;
+}
+#cahir2{
+    width: 20%;
+    height: 30%;
+    margin-left:2% ;
+    
+}
+#chair3{
+    width: 20%;
+    height: 10%;
+    margin-left: 2%;
+}
+.styling{
+    display: flex;
+}
+#ph1{
+    width: 27%;
+    height: 12%;
+    margin-left: 21%;
+}
+#ph2{
+    width: 29%;
+    height: 12%;
+    margin-left: 2%;
+}
+.pictures{
+    display: flex;
+}
+#ph3{
+    width: 25%;
+    height: 13%;
+    margin-left: 20%;
+    margin-top: -12%;
+}
+#ph4{
+    width:20% ;
+    height: 12%;
+    margin-left: 5%;
+    margin-top: -3%;
+    
+}
+#view{
+margin-left:50% ;
+margin-top: -12%;
+
+}
+#fix{
+    width: 45%;
+    margin-right: 60%;
+    border: solid;
+    background-color:gray;
+}
+#hey{
+text-align: left;
+font-size: 300%;
+}
+
+
+
+
+
+
