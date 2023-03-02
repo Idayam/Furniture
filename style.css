@@ -33,7 +33,7 @@ button{
 }
 #sofa{
     width: 650px;
-    margin-right: 150px;
+    margin-left: 180px;
     
 }
 .second{
@@ -43,8 +43,9 @@ button{
     height: 300px;
 }
 #sit{
-    width: 250px;
-    height: 300px;
+    width: 280px;
+    height: 350px;
+    margin-left: 50px;
     
 }
 .third{
@@ -55,6 +56,16 @@ button{
     width: 150px;
     height: 70px;
     padding-left:230px;
+    text-align: center;
+    margin-left: -170%;
+    margin-bottom: -30%;
+}
+#ro{
+    margin-top:17%;
+}
+#office{
+    margin-top: -29%;
+    padding-left:300px ;
 }
 .fourth{
 float: right;
@@ -65,6 +76,7 @@ float: right;
     height:70px;
     padding-left:700px;
     padding-bottom: 200px;
+    margin-top: 6%;
 }
 .hi{
     text-align: center;
@@ -73,7 +85,12 @@ float: right;
     text-align: center;
     justify-content: space-around; 
     display: flex;
-    
+}
+#size{
+    font-size: 40px;
+}
+.font{
+    font-size: 30px;
 }
 .one{
     text-align: center;
@@ -93,10 +110,6 @@ background-color: gray;
     text-align: center;
     margin-left: 40px;
     background-color: gray;
-
-}
-.design{
-
 }
 #p1{
     width: 650px;
@@ -124,6 +137,7 @@ background-color: gray;
 }
 .style{
     display: flex;
+    text-align: center;
 }
 #chair1{
     width: 20%;
@@ -176,15 +190,52 @@ margin-top: -12%;
 
 }
 #fix{
-    width: 45%;
-    margin-right: 60%;
-    border: solid;
+    width: 50%;
+    margin-left: 40%;
     background-color:gray;
 }
 #hey{
 text-align: left;
 font-size: 300%;
+margin-bottom: -10%;
 }
+#back{
+    background-color: aliceblue;
+}
+.end{
+background-color: grey;
+width: 60%;
+height: 70vh;padding: 30px;
+margin-left: 20%;
+}
+.click{
+margin-top: -500px;
+}
+.footer{
+    display: flex;
+}
+#h5{
+    font: size 15px;
+    margin-bottom: 6%;
+}
+.footer1{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.footer2{
+    margin-left: 5%;
+   margin-top: 5%;
+}
+.footer3{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.footer4{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
 
 
 
